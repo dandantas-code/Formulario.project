@@ -1,0 +1,41 @@
+body {
+    background-image: url(bg-intro-desktop.png);
+    background-color: grey;
+}
+
+
+section {
+    display: block;
+    margin-top: 100px;
+    background-color: white;
+    padding: 15px;
+    max-width: 500px;
+    border: 1px solid black;
+    margin-left: 50%;
+    margin-top: auto;
+    border-radius: 5px;
+}
+
+h1 {
+    text-align: left;
+    color: honeydew;
+}
+
+input {
+    padding: 20px;
+    width: 454px;
+}
+
+button {
+    padding: 20px;
+    width: 498px;
+    background-color:  #00ff00;
+    font-family: "Comic Sans MS", cursive;
+    font-size: 100%;
+}
+
+p{
+    padding-top: 10px;
+    text-align: center;
+    font-family:initial;
+}
